@@ -1,0 +1,1530 @@
+|42|
+returned : 5
+|42   |
+returned : 8
+|42                                                |
+returned : 53
+|42|
+returned : 5
+|42                                                |
+returned : 53
+|42                                                |
+returned : 53
+|42                                                |
+returned : 53
+|42                                                |
+returned : 53
+|42|
+returned : 5
+|42   |
+returned : 8
+|42                                                |
+returned : 53
+|42|
+returned : 5
+|42|
+returned : 5
+|42|
+returned : 5
+|42|
+returned : 5
+|42|
+returned : 5
+|42|
+returned : 5
+|42   |
+returned : 8
+|42                                                |
+returned : 53
+|42|
+returned : 5
+|                                                42|
+returned : 53
+|42                                                |
+returned : 53
+|42                                                |
+returned : 53
+|                                                42|
+returned : 53
+|-42|
+returned : 6
+|-42  |
+returned : 8
+|-42                                               |
+returned : 53
+|-42|
+returned : 6
+|-42                                               |
+returned : 53
+|-42                                               |
+returned : 53
+|-42                                               |
+returned : 53
+|-42                                               |
+returned : 53
+|-42|
+returned : 6
+|-42  |
+returned : 8
+|-42                                               |
+returned : 53
+|-42|
+returned : 6
+|-42|
+returned : 6
+|-42|
+returned : 6
+|-42|
+returned : 6
+|-42|
+returned : 6
+|-42|
+returned : 6
+|-42  |
+returned : 8
+|-42                                               |
+returned : 53
+|-42|
+returned : 6
+|                                               -42|
+returned : 53
+|-42                                               |
+returned : 53
+|-42                                               |
+returned : 53
+|                                               -42|
+returned : 53
+|0|
+returned : 4
+|0    |
+returned : 8
+|0                                                 |
+returned : 53
+|0|
+returned : 4
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0|
+returned : 4
+|0    |
+returned : 8
+|0                                                 |
+returned : 53
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0    |
+returned : 8
+|0                                                 |
+returned : 53
+|0|
+returned : 4
+|                                                 0|
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|                                                 0|
+returned : 53
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647                                        |
+returned : 53
+|2147483647|
+returned : 13
+|2147483647                                        |
+returned : 53
+|2147483647                                        |
+returned : 53
+|2147483647                                        |
+returned : 53
+|2147483647                                        |
+returned : 53
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647                                        |
+returned : 53
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647                                        |
+returned : 53
+|2147483647|
+returned : 13
+|                                        2147483647|
+returned : 53
+|2147483647                                        |
+returned : 53
+|2147483647                                        |
+returned : 53
+|                                        2147483647|
+returned : 53
+|-2147483648|
+returned : 14
+|-2147483648|
+returned : 14
+|-2147483648                                       |
+returned : 53
+|-2147483648|
+returned : 14
+|-2147483648                                       |
+returned : 53
+|-2147483648                                       |
+returned : 53
+|-2147483648                                       |
+returned : 53
+|-2147483648                                       |
+returned : 53
+|-2147483648|
+returned : 14
+|-2147483648|
+returned : 14
+|-2147483648                                       |
+returned : 53
+|-2147483648|
+returned : 14
+|-2147483648|
+returned : 14
+|-2147483648|
+returned : 14
+|-2147483648|
+returned : 14
+|-2147483648|
+returned : 14
+|-2147483648|
+returned : 14
+|-2147483648|
+returned : 14
+|-2147483648                                       |
+returned : 53
+|-2147483648|
+returned : 14
+|                                       -2147483648|
+returned : 53
+|-2147483648                                       |
+returned : 53
+|-2147483648                                       |
+returned : 53
+|                                       -2147483648|
+returned : 53
+|–|
+returned : 4
+|–|
+returned : 4
+|–    |
+returned : 8
+|–                                                 |
+returned : 53
+|–                                                 |
+returned : 53
+|–|
+returned : 4
+|                                                 –|
+returned : 53
+|–                                                 |
+returned : 53
+|–                                                 |
+returned : 53
+|                                                 –|
+returned : 53
+|–|
+returned : 4
+|–|
+returned : 4
+|–    |
+returned : 8
+|–                                                 |
+returned : 53
+|–                                                 |
+returned : 53
+|–|
+returned : 4
+|–|
+returned : 4
+|–|
+returned : 4
+|–|
+returned : 4
+|–|
+returned : 4
+|–|
+returned : 4
+|–|
+returned : 4
+|–    |
+returned : 8
+|–                                                 |
+returned : 53
+|–                                                 |
+returned : 53
+|–|
+returned : 4
+|–                                                 |
+returned : 53
+|–                                                 |
+returned : 53
+|–                                                 |
+returned : 53
+|–                                                 |
+returned : 53
+|a|
+returned : 4
+|a|
+returned : 4
+|a    |
+returned : 8
+|a                                                 |
+returned : 53
+|a                                                 |
+returned : 53
+|a|
+returned : 4
+|                                                 a|
+returned : 53
+|a                                                 |
+returned : 53
+|a                                                 |
+returned : 53
+|                                                 a|
+returned : 53
+|a|
+returned : 4
+|a|
+returned : 4
+|a    |
+returned : 8
+|a                                                 |
+returned : 53
+|a                                                 |
+returned : 53
+|a|
+returned : 4
+|a|
+returned : 4
+|a|
+returned : 4
+|a|
+returned : 4
+|a|
+returned : 4
+|a|
+returned : 4
+|a|
+returned : 4
+|a    |
+returned : 8
+|a                                                 |
+returned : 53
+|a                                                 |
+returned : 53
+|a|
+returned : 4
+|a                                                 |
+returned : 53
+|a                                                 |
+returned : 53
+|a                                                 |
+returned : 53
+|a                                                 |
+returned : 53
+||
+returned : 4
+||
+returned : 4
+|    |
+returned : 8
+|                                                 |
+returned : 53
+|                                                 |
+returned : 53
+||
+returned : 4
+|                                                 |
+returned : 53
+|                                                 |
+returned : 53
+|                                                 |
+returned : 53
+|                                                 |
+returned : 53
+||
+returned : 4
+||
+returned : 4
+|    |
+returned : 8
+|                                                 |
+returned : 53
+|                                                 |
+returned : 53
+||
+returned : 4
+||
+returned : 4
+||
+returned : 4
+||
+returned : 4
+||
+returned : 4
+||
+returned : 4
+||
+returned : 4
+|    |
+returned : 8
+|                                                 |
+returned : 53
+|                                                 |
+returned : 53
+||
+returned : 4
+|                                                 |
+returned : 53
+|                                                 |
+returned : 53
+|                                                 |
+returned : 53
+|                                                 |
+returned : 53
+|2a|
+returned : 5
+|2a|
+returned : 5
+|2a                                                |
+returned : 53
+|2a                                                |
+returned : 53
+|2a                                                |
+returned : 53
+|2a                                                |
+returned : 53
+|2a                                                |
+returned : 53
+|2a                                                |
+returned : 53
+|2a|
+returned : 5
+|2a|
+returned : 5
+|2a                                                |
+returned : 53
+|2a                                                |
+returned : 53
+|2a|
+returned : 5
+|2a|
+returned : 5
+|2a|
+returned : 5
+|2a|
+returned : 5
+|2a|
+returned : 5
+|2a|
+returned : 5
+|2a                                                |
+returned : 53
+|2a                                                |
+returned : 53
+|                                                2a|
+returned : 53
+|2a                                                |
+returned : 53
+|2a                                                |
+returned : 53
+|                                                2a|
+returned : 53
+|ffffffd6|
+returned : 11
+|ffffffd6|
+returned : 11
+|ffffffd6                                          |
+returned : 53
+|ffffffd6                                          |
+returned : 53
+|ffffffd6                                          |
+returned : 53
+|ffffffd6                                          |
+returned : 53
+|ffffffd6                                          |
+returned : 53
+|ffffffd6                                          |
+returned : 53
+|ffffffd6|
+returned : 11
+|ffffffd6|
+returned : 11
+|ffffffd6                                          |
+returned : 53
+|ffffffd6                                          |
+returned : 53
+|ffffffd6|
+returned : 11
+|ffffffd6|
+returned : 11
+|ffffffd6|
+returned : 11
+|ffffffd6|
+returned : 11
+|ffffffd6|
+returned : 11
+|ffffffd6|
+returned : 11
+|ffffffd6                                          |
+returned : 53
+|ffffffd6                                          |
+returned : 53
+|                                          ffffffd6|
+returned : 53
+|ffffffd6                                          |
+returned : 53
+|ffffffd6                                          |
+returned : 53
+|                                          ffffffd6|
+returned : 53
+|0|
+returned : 4
+|0|
+returned : 4
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0|
+returned : 4
+|0|
+returned : 4
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|                                                 0|
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|                                                 0|
+returned : 53
+|7fffffff|
+returned : 11
+|7fffffff|
+returned : 11
+|7fffffff                                          |
+returned : 53
+|7fffffff                                          |
+returned : 53
+|7fffffff                                          |
+returned : 53
+|7fffffff                                          |
+returned : 53
+|7fffffff                                          |
+returned : 53
+|7fffffff                                          |
+returned : 53
+|7fffffff|
+returned : 11
+|7fffffff|
+returned : 11
+|7fffffff                                          |
+returned : 53
+|7fffffff                                          |
+returned : 53
+|7fffffff|
+returned : 11
+|7fffffff|
+returned : 11
+|7fffffff|
+returned : 11
+|7fffffff|
+returned : 11
+|7fffffff|
+returned : 11
+|7fffffff|
+returned : 11
+|7fffffff                                          |
+returned : 53
+|7fffffff                                          |
+returned : 53
+|                                          7fffffff|
+returned : 53
+|7fffffff                                          |
+returned : 53
+|7fffffff                                          |
+returned : 53
+|                                          7fffffff|
+returned : 53
+|ffffffff|
+returned : 11
+|ffffffff|
+returned : 11
+|ffffffff                                          |
+returned : 53
+|ffffffff                                          |
+returned : 53
+|ffffffff                                          |
+returned : 53
+|ffffffff                                          |
+returned : 53
+|ffffffff                                          |
+returned : 53
+|ffffffff                                          |
+returned : 53
+|ffffffff|
+returned : 11
+|ffffffff|
+returned : 11
+|ffffffff                                          |
+returned : 53
+|ffffffff                                          |
+returned : 53
+|ffffffff|
+returned : 11
+|ffffffff|
+returned : 11
+|ffffffff|
+returned : 11
+|ffffffff|
+returned : 11
+|ffffffff|
+returned : 11
+|ffffffff|
+returned : 11
+|ffffffff                                          |
+returned : 53
+|ffffffff                                          |
+returned : 53
+|                                          ffffffff|
+returned : 53
+|ffffffff                                          |
+returned : 53
+|ffffffff                                          |
+returned : 53
+|                                          ffffffff|
+returned : 53
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|                                          80000000|
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|                                          80000000|
+returned : 53
+|2A|
+returned : 5
+|2A|
+returned : 5
+|2A                                                |
+returned : 53
+|2A                                                |
+returned : 53
+|2A                                                |
+returned : 53
+|2A                                                |
+returned : 53
+|2A                                                |
+returned : 53
+|2A                                                |
+returned : 53
+|2A|
+returned : 5
+|2A|
+returned : 5
+|2A                                                |
+returned : 53
+|2A                                                |
+returned : 53
+|2A|
+returned : 5
+|2A|
+returned : 5
+|2A|
+returned : 5
+|2A|
+returned : 5
+|2A|
+returned : 5
+|2A|
+returned : 5
+|2A                                                |
+returned : 53
+|2A                                                |
+returned : 53
+|                                                2A|
+returned : 53
+|2A                                                |
+returned : 53
+|2A                                                |
+returned : 53
+|                                                2A|
+returned : 53
+|FFFFFFD6|
+returned : 11
+|FFFFFFD6|
+returned : 11
+|FFFFFFD6                                          |
+returned : 53
+|FFFFFFD6                                          |
+returned : 53
+|FFFFFFD6                                          |
+returned : 53
+|FFFFFFD6                                          |
+returned : 53
+|FFFFFFD6                                          |
+returned : 53
+|FFFFFFD6                                          |
+returned : 53
+|FFFFFFD6|
+returned : 11
+|FFFFFFD6|
+returned : 11
+|FFFFFFD6                                          |
+returned : 53
+|FFFFFFD6                                          |
+returned : 53
+|FFFFFFD6|
+returned : 11
+|FFFFFFD6|
+returned : 11
+|FFFFFFD6|
+returned : 11
+|FFFFFFD6|
+returned : 11
+|FFFFFFD6|
+returned : 11
+|FFFFFFD6|
+returned : 11
+|FFFFFFD6                                          |
+returned : 53
+|FFFFFFD6                                          |
+returned : 53
+|                                          FFFFFFD6|
+returned : 53
+|FFFFFFD6                                          |
+returned : 53
+|FFFFFFD6                                          |
+returned : 53
+|                                          FFFFFFD6|
+returned : 53
+|0|
+returned : 4
+|0|
+returned : 4
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0|
+returned : 4
+|0|
+returned : 4
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|                                                 0|
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|                                                 0|
+returned : 53
+|7FFFFFFF|
+returned : 11
+|7FFFFFFF|
+returned : 11
+|7FFFFFFF                                          |
+returned : 53
+|7FFFFFFF                                          |
+returned : 53
+|7FFFFFFF                                          |
+returned : 53
+|7FFFFFFF                                          |
+returned : 53
+|7FFFFFFF                                          |
+returned : 53
+|7FFFFFFF                                          |
+returned : 53
+|7FFFFFFF|
+returned : 11
+|7FFFFFFF|
+returned : 11
+|7FFFFFFF                                          |
+returned : 53
+|7FFFFFFF                                          |
+returned : 53
+|7FFFFFFF|
+returned : 11
+|7FFFFFFF|
+returned : 11
+|7FFFFFFF|
+returned : 11
+|7FFFFFFF|
+returned : 11
+|7FFFFFFF|
+returned : 11
+|7FFFFFFF|
+returned : 11
+|7FFFFFFF                                          |
+returned : 53
+|7FFFFFFF                                          |
+returned : 53
+|                                          7FFFFFFF|
+returned : 53
+|7FFFFFFF                                          |
+returned : 53
+|7FFFFFFF                                          |
+returned : 53
+|                                          7FFFFFFF|
+returned : 53
+|FFFFFFFF|
+returned : 11
+|FFFFFFFF|
+returned : 11
+|FFFFFFFF                                          |
+returned : 53
+|FFFFFFFF                                          |
+returned : 53
+|FFFFFFFF                                          |
+returned : 53
+|FFFFFFFF                                          |
+returned : 53
+|FFFFFFFF                                          |
+returned : 53
+|FFFFFFFF                                          |
+returned : 53
+|FFFFFFFF|
+returned : 11
+|FFFFFFFF|
+returned : 11
+|FFFFFFFF                                          |
+returned : 53
+|FFFFFFFF                                          |
+returned : 53
+|FFFFFFFF|
+returned : 11
+|FFFFFFFF|
+returned : 11
+|FFFFFFFF|
+returned : 11
+|FFFFFFFF|
+returned : 11
+|FFFFFFFF|
+returned : 11
+|FFFFFFFF|
+returned : 11
+|FFFFFFFF                                          |
+returned : 53
+|FFFFFFFF                                          |
+returned : 53
+|                                          FFFFFFFF|
+returned : 53
+|FFFFFFFF                                          |
+returned : 53
+|FFFFFFFF                                          |
+returned : 53
+|                                          FFFFFFFF|
+returned : 53
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000|
+returned : 11
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|                                          80000000|
+returned : 53
+|80000000                                          |
+returned : 53
+|80000000                                          |
+returned : 53
+|                                          80000000|
+returned : 53
+|0x2a|
+returned : 7
+|0x2a|
+returned : 7
+|0x2a|
+returned : 7
+|0x2a|
+returned : 7
+|0x2a|
+returned : 7
+|0x2a|
+returned : 7
+|0xffffffffffffffd6|
+returned : 21
+|0xffffffffffffffd6|
+returned : 21
+|0xffffffffffffffd6|
+returned : 21
+|0xffffffffffffffd6|
+returned : 21
+|0xffffffffffffffd6|
+returned : 21
+|0xffffffffffffffd6|
+returned : 21
+|0x0|
+returned : 6
+|0x0|
+returned : 6
+|0x0|
+returned : 6
+|0x0|
+returned : 6
+|0x0|
+returned : 6
+|0x0|
+returned : 6
+|0x7fffffffffffffff|
+returned : 21
+|0x7fffffffffffffff|
+returned : 21
+|0x7fffffffffffffff|
+returned : 21
+|0x7fffffffffffffff|
+returned : 21
+|0x7fffffffffffffff|
+returned : 21
+|0x7fffffffffffffff|
+returned : 21
+|0xffffffffffffffff|
+returned : 21
+|0xffffffffffffffff|
+returned : 21
+|0xffffffffffffffff|
+returned : 21
+|0xffffffffffffffff|
+returned : 21
+|0xffffffffffffffff|
+returned : 21
+|0xffffffffffffffff|
+returned : 21
+|0x8000000000000000|
+returned : 21
+|0x8000000000000000|
+returned : 21
+|0x8000000000000000|
+returned : 21
+|0x8000000000000000|
+returned : 21
+|0x8000000000000000|
+returned : 21
+|0x8000000000000000|
+returned : 21
+|42|
+returned : 5
+|42|
+returned : 5
+|42                                                |
+returned : 53
+|42                                                |
+returned : 53
+|42                                                |
+returned : 53
+|42                                                |
+returned : 53
+|42                                                |
+returned : 53
+|42                                                |
+returned : 53
+|42|
+returned : 5
+|42|
+returned : 5
+|42                                                |
+returned : 53
+|42                                                |
+returned : 53
+|42|
+returned : 5
+|42|
+returned : 5
+|42|
+returned : 5
+|42|
+returned : 5
+|42|
+returned : 5
+|42|
+returned : 5
+|42                                                |
+returned : 53
+|42                                                |
+returned : 53
+|                                                42|
+returned : 53
+|42                                                |
+returned : 53
+|42                                                |
+returned : 53
+|                                                42|
+returned : 53
+|4294967254|
+returned : 13
+|4294967254|
+returned : 13
+|4294967254                                        |
+returned : 53
+|4294967254                                        |
+returned : 53
+|4294967254                                        |
+returned : 53
+|4294967254                                        |
+returned : 53
+|4294967254                                        |
+returned : 53
+|4294967254                                        |
+returned : 53
+|4294967254|
+returned : 13
+|4294967254|
+returned : 13
+|4294967254                                        |
+returned : 53
+|4294967254                                        |
+returned : 53
+|4294967254|
+returned : 13
+|4294967254|
+returned : 13
+|4294967254|
+returned : 13
+|4294967254|
+returned : 13
+|4294967254|
+returned : 13
+|4294967254|
+returned : 13
+|4294967254                                        |
+returned : 53
+|4294967254                                        |
+returned : 53
+|                                        4294967254|
+returned : 53
+|4294967254                                        |
+returned : 53
+|4294967254                                        |
+returned : 53
+|                                        4294967254|
+returned : 53
+|0|
+returned : 4
+|0|
+returned : 4
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0|
+returned : 4
+|0|
+returned : 4
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0|
+returned : 4
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|                                                 0|
+returned : 53
+|0                                                 |
+returned : 53
+|0                                                 |
+returned : 53
+|                                                 0|
+returned : 53
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647                                        |
+returned : 53
+|2147483647                                        |
+returned : 53
+|2147483647                                        |
+returned : 53
+|2147483647                                        |
+returned : 53
+|2147483647                                        |
+returned : 53
+|2147483647                                        |
+returned : 53
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647                                        |
+returned : 53
+|2147483647                                        |
+returned : 53
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647|
+returned : 13
+|2147483647                                        |
+returned : 53
+|2147483647                                        |
+returned : 53
+|                                        2147483647|
+returned : 53
+|2147483647                                        |
+returned : 53
+|2147483647                                        |
+returned : 53
+|                                        2147483647|
+returned : 53
+|4294967295|
+returned : 13
+|4294967295|
+returned : 13
+|4294967295                                        |
+returned : 53
+|4294967295                                        |
+returned : 53
+|4294967295                                        |
+returned : 53
+|4294967295                                        |
+returned : 53
+|4294967295                                        |
+returned : 53
+|4294967295                                        |
+returned : 53
+|4294967295|
+returned : 13
+|4294967295|
+returned : 13
+|4294967295                                        |
+returned : 53
+|4294967295                                        |
+returned : 53
+|4294967295|
+returned : 13
+|4294967295|
+returned : 13
+|4294967295|
+returned : 13
+|4294967295|
+returned : 13
+|4294967295|
+returned : 13
+|4294967295|
+returned : 13
+|4294967295                                        |
+returned : 53
+|4294967295                                        |
+returned : 53
+|                                        4294967295|
+returned : 53
+|4294967295                                        |
+returned : 53
+|4294967295                                        |
+returned : 53
+|                                        4294967295|
+returned : 53
+|2147483648|
+returned : 13
+|2147483648|
+returned : 13
+|2147483648                                        |
+returned : 53
+|2147483648                                        |
+returned : 53
+|2147483648                                        |
+returned : 53
+|2147483648                                        |
+returned : 53
+|2147483648                                        |
+returned : 53
+|2147483648                                        |
+returned : 53
+|2147483648|
+returned : 13
+|2147483648|
+returned : 13
+|2147483648                                        |
+returned : 53
+|2147483648                                        |
+returned : 53
+|2147483648|
+returned : 13
+|2147483648|
+returned : 13
+|2147483648|
+returned : 13
+|2147483648|
+returned : 13
+|2147483648|
+returned : 13
+|2147483648|
+returned : 13
+|2147483648                                        |
+returned : 53
+|2147483648                                        |
+returned : 53
+|                                        2147483648|
+returned : 53
+|2147483648                                        |
+returned : 53
+|2147483648                                        |
+returned : 53
+|                                        2147483648|
+returned : 53
+|(null)|
+returned : 9
+|(null)|
+returned : 9
+|(null)                                            |
+returned : 53
+|(null)                                            |
+returned : 53
+|(null)                                            |
+returned : 53
+|(null)                                            |
+returned : 53
+|(null)                                            |
+returned : 53
+|(null)                                            |
+returned : 53
+|(null)                                            |
+returned : 53
+|(null)|
+returned : 9
+|(null)|
+returned : 9
+|(null)                                            |
+returned : 53
+|(null)                                            |
+returned : 53
+|(null)|
+returned : 9
+|(null)|
+returned : 9
+|(null)|
+returned : 9
+|(null)|
+returned : 9
+|(null)|
+returned : 9
+|(null)|
+returned : 9
+|(null)|
+returned : 9
+|(null)                                            |
+returned : 53
+|(null)                                            |
+returned : 53
+|                                            (null)|
+returned : 53
+|(null)                                            |
+returned : 53
+|(null)                                            |
+returned : 53
+|(null)                                            |
+returned : 53
+|                                            (null)|
+returned : 53
+||
+returned : 3
+||
+returned : 3
+|                                                  |
+returned : 53
+|                                                  |
+returned : 53
+|                                                  |
+returned : 53
+|                                                  |
+returned : 53
+|                                                  |
+returned : 53
+|                                                  |
+returned : 53
+|                                                  |
+returned : 53
+||
+returned : 3
+||
+returned : 3
+|                                                  |
+returned : 53
+|                                                  |
+returned : 53
+||
+returned : 3
+||
+returned : 3
+||
+returned : 3
+||
+returned : 3
+||
+returned : 3
+||
+returned : 3
+||
+returned : 3
+|                                                  |
+returned : 53
+|                                                  |
+returned : 53
+|                                                  |
+returned : 53
+|                                                  |
+returned : 53
+|                                                  |
+returned : 53
+|                                                  |
+returned : 53
+|                                                  |
+returned : 53
+|aadfsdgefg	wrg	ewg|
+returned : 21
+|aadfsdgefg	wrg	ewg|
+returned : 21
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|aadfsdgefg	wrg	ewg|
+returned : 21
+|aadfsdgefg	wrg	ewg|
+returned : 21
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|aadfsdgefg	wrg	ewg|
+returned : 21
+|aadfsdgefg	wrg	ewg|
+returned : 21
+|aadfsdgefg	wrg	ewg|
+returned : 21
+|aadfsdgefg	wrg	ewg|
+returned : 21
+|aadfsdgefg	wrg	ewg|
+returned : 21
+|aadfsdgefg	wrg	ewg|
+returned : 21
+|aadfsdgefg	wrg	ewg|
+returned : 21
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|                                aadfsdgefg	wrg	ewg|
+returned : 53
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|aadfsdgefg	wrg	ewg                                |
+returned : 53
+|                                aadfsdgefg	wrg	ewg|
+returned : 53
+|%    |
+returned : 8
+|%|
+returned : 4
+|%|
+returned : 4
+|%    |
+returned : 8
+|%|
+returned : 4
+|%|
+returned : 4
