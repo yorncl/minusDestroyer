@@ -3,7 +3,7 @@ If you have any question, email me at mclaudel@student.42.fr or find me around t
 What the frick ?
 ====
 
-This tester is designed to test the minus flags on every type of conversion (bonuses not included).
+This tester is designed to test the minus flag (with precision) on every type of conversion (bonuses not included).
 
 How the frick ?
 ======
